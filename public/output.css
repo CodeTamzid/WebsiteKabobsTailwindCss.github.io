@@ -1726,3 +1726,6 @@ video {
     --tw-ring-color: rgb(75 85 99 / var(--tw-ring-opacity));
   }
 }
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
